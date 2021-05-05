@@ -1,9 +1,19 @@
 # Linux_server
 A linux_server program
 
-##开发环境 ubuntu20.04
-           gcc 9.1
+#开发环境 ubuntu18.04
+           gcc 7.5.0
            cmake
+#项目路径 
+bin -- 二进制
+build -- 中间文件路径
+cmake --cmake函数文件夹
+CMakeLists.txt -- cmake的定义文件
+lib -- 库的输入路径
+Makefile -- 方便使用
+sylar -- 源代码路径
+test -- 测试代码路径
+
 
 ## 服务器框架
 
